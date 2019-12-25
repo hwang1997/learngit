@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-style: normal;
+}
+.container{
+    width: 750px;
+    margin: 0 auto;
+}
+.container .header{
+    height: 431px;
+    padding: 0;
+    margin: 0;
+}
+.container .header img{
+    width: 100%;
+}
+.container .title{
+    width:340px;
+    height:33px;
+    line-height: 33px;
+    margin: 24px 220px 17px 220px;
+}
+.container .title p{
+    font-size:35px;
+    font-family:Adobe Heiti Std;
+    font-weight:normal;
+    color:rgba(32,146,247,1);
+}
+.container .content_sfyz{
+    height: 1187px;
+    width: 750px;
+    background: url(../images/sfyzbg.png) no-repeat;
+}
+.container .content_sfyz .content_sfyz_title{
+    padding: 23px 0 0 24px;
+    width:175px;
+    height:35px;
+    line-height: 35px;
+    font-size:35px;
+    font-family:Microsoft YaHei;
+    font-weight:400;
+    color:rgba(43,156,255,1);
+}
